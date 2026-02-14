@@ -11,7 +11,7 @@ const Hero = () => {
       Delivering value to our clients, our <br /> community and our shareholders
     </p>
 
-    <a href="btn" class="btn">Discover more</a>
+   
   </div>
 </section>
     );

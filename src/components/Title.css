@@ -1,0 +1,15 @@
+
+body{
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+    background:#ffffff;
+  }
+
+.pill{
+    font-size:11px;
+    letter-spacing:3px;
+    border:1px solid #ccc;
+    padding:6px 10px;
+    display:inline-block;
+    margin-bottom:10px;
+  }
