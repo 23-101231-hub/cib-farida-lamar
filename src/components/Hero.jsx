@@ -1,17 +1,20 @@
 import React from 'react';
 import "./Hero.css"
+import Btn from './Btn';
+
 
 const Hero = () => {
     return (  
-        <section class="hero">
-  <div class="hero-content">
-    <div class="logo">CIB</div>
+        <section className="hero">
+  <div className="hero-content">
+    <div className="logo">CIB</div>
 
-    <p class="hero-text">
+    <p className="hero-text">
       Delivering value to our clients, our <br /> community and our shareholders
     </p>
-
-   
+    <Btn />
+    
+ 
   </div>
 </section>
     );

@@ -3,7 +3,7 @@ import "./Title.css"
 
 const Title = () => {
     return (
-        <div class="pill">APPLY ONLINE</div>
+        <div className="pill">APPLY ONLINE</div>
       );
 }
  

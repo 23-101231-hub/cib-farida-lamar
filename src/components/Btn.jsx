@@ -2,7 +2,7 @@ import React from 'react';
 import "./Btn.css"
 const Btn = () => {
     return ( 
-        <a href="btn" class="btn">Discover more</a>
+        <a href="btn" className="btn">Discover more</a>
      );
 }
  

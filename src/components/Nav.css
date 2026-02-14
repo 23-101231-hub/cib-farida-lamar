@@ -17,12 +17,7 @@ body{
     gap:30px;
   }
   
-  .logo{
-    color:#ffffff;
-    font-size:28px;
-    font-weight:bold;
-    text-decoration:none;
-  }
+
   
   ul{
     list-style:none;
@@ -32,18 +27,3 @@ body{
     gap:25px;
   }
   
-  ul li a{
-    text-decoration:none;
-    padding:8px 10px;
-    transition:0.3s;
-    color: #FFF;
-font-family: Inter;
-font-size: 14.9px;
-font-weight: 500;
-line-height: 14px; 
-  }
-  
-  ul li a:hover{
-    background:rgba(255,255,255,0.1);
-    border-radius:4px;
-  }

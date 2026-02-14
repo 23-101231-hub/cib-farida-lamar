@@ -4,7 +4,7 @@ import img2 from "../assets/Icon [online-banking-12].png"
 
 const Card1 = () => {
     return ( 
-         <div class="card">
+         <div className="card">
               <img src={img2} />
             <p>Apply for a New Account</p>
           </div>

@@ -1,6 +1,7 @@
 import React from 'react';
 import "./Nav.css";
 import img1 from "../assets/Image.png"
+import Navtext from './Navtext';
 
 const Nav = () => {
     return ( 
@@ -10,13 +11,13 @@ const Nav = () => {
   <img src={img1} />
 
     <ul>
-      <li><a href="about">About Us</a></li>
-      <li><a href="investor">Investor Relations</a></li>
-      <li><a href="responsible">Responsible Banking</a></li>
-      <li><a href="new">Newsroom</a></li>
-      <li><a href="learning">Learning Center</a></li>
-      <li><a href="career">Careers</a></li>
-      <li><a href="other">Others</a></li>
+    <Navtext />
+    <Navtext />
+    <Navtext />
+    <Navtext />
+    <Navtext />
+    <Navtext />
+    <Navtext />
     </ul>
 
   </div>
