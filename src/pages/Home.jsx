@@ -9,6 +9,7 @@ import Card1 from '../components/Card1';
 import Card2 from '../components/Card2';
 import Viewbtn from '../components/Viewbtn';
 import Card3 from '../components/Card3';
+import img5 from "../assets/Picture [lozad].png"
 
 
 const Home = () => {
@@ -64,10 +65,10 @@ const Home = () => {
 
 
 
-<section class="news-section">
-  <h2 class="news-title">News</h2>
+<section className="news-section">
+  <h2 className="news-title">News</h2>
 
-  <div class="news-container">
+  <div className="news-container">
 
   <Card3 />
 
@@ -78,6 +79,26 @@ const Home = () => {
   </div>
 
   <Viewbtn />
+
+</section>
+
+
+
+<section className="international-section">
+
+  <div className="card-wrapper2">
+
+    <div className="card-image2">
+       <img src={img5} />
+    </div>
+
+    <div className="card-content2">
+      <h3>CIB on an international scale</h3>
+      <p>Learn more about CIB's presence outside of Egypt</p>
+      <button>Learn more</button>
+    </div>
+
+  </div>
 
 </section>
 
