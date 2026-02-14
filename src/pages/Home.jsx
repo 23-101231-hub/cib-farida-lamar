@@ -10,6 +10,10 @@ import Card2 from '../components/Card2';
 import Viewbtn from '../components/Viewbtn';
 import Card3 from '../components/Card3';
 import img5 from "../assets/Picture [lozad].png"
+import Card4 from '../components/Card4';
+import Card5 from '../components/Card5';
+import Card6 from '../components/Card6';
+
 
 
 const Home = () => {
@@ -95,12 +99,71 @@ const Home = () => {
     <div className="card-content2">
       <h3>CIB on an international scale</h3>
       <p>Learn more about CIB's presence outside of Egypt</p>
-      <button>Learn more</button>
+      <Viewbtn />
     </div>
 
   </div>
 
 </section>
+
+
+
+
+<section className="sustainability-section">
+
+  <Title />
+
+  <Slogan />
+
+  <div className="logos">
+
+   <Card4 />
+   <Card4 />
+   <Card4 />
+
+  </div>
+
+ <Viewbtn />
+
+</section>
+
+
+
+<section className="awards">
+
+  <Title />
+  <Slogan />
+
+
+  <div className="awards-row">
+ 
+   <Card5 />
+   <Card5 />
+   <Card5 />
+
+  </div>
+
+  <Viewbtn />
+</section>
+
+
+
+
+
+<section class="wecare">
+
+  <Title />
+  <Slogan />
+
+  <div class="wecare-row">
+
+  <Card6 />
+  <Card6 />
+  <Card6 />
+
+  </div>
+</section>
+
 
         </>
      );
