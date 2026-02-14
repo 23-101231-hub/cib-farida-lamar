@@ -13,6 +13,8 @@ import img5 from "../assets/Picture [lozad].png"
 import Card4 from '../components/Card4';
 import Card5 from '../components/Card5';
 import Card6 from '../components/Card6';
+import Footer from '../components/Footer';
+
 
 
 
@@ -163,6 +165,13 @@ const Home = () => {
 
   </div>
 </section>
+
+
+<Footer />
+
+
+
+
 
 
         </>

@@ -1,0 +1,15 @@
+body{
+    margin:0;
+    font-family: Inter;
+    background:#ffffff;
+  }
+
+
+
+.col-title{
+    font-size:12.6px;
+
+    font-weight:800;
+    margin:0 0 10px;
+    opacity:0.95;
+  }

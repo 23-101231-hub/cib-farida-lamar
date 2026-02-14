@@ -1,5 +1,5 @@
 import React from 'react';
-import "./Viewbtn.css"
+import "./Viewbtn.css";
 
 const Viewbtn = () => {
     return ( 

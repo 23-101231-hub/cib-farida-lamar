@@ -1,5 +1,5 @@
 import React from 'react';
-import "./Slogan.css"
+import "./Slogan.css";
 
 const Slogan = () => {
     return ( 

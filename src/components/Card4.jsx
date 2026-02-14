@@ -1,6 +1,6 @@
 import React from 'react';
-import "./Card4.css"
-import img6 from "../assets/Icon.png"
+import "./Card4.css";
+import img6 from "../assets/Icon.png";
 
 const Card4 = () => {
     return (

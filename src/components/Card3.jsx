@@ -1,6 +1,6 @@
 import React from 'react';
-import "./Card3.css"
-import img4 from "../assets/Div [aspect-wrapper]2.png"
+import "./Card3.css";
+import img4 from "../assets/Div [aspect-wrapper]2.png";
 
 const Card3 = () => {
     return ( 
@@ -9,7 +9,7 @@ const Card3 = () => {
       <div className="news-image">
         <img src={img4} />
       </div>
-      <div class="news-content">
+      <div className="news-content">
         <div className="news-date">08/07/2025 , Commercial International Bank (CIB)</div>
         <a href="new" className="news-title-link">
           Commercial International Bank (CIB) Has Partnered with CI Capital to Successfully Close the Seventh

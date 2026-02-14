@@ -1,6 +1,6 @@
 import React from 'react';
 import "./Nav.css";
-import img1 from "../assets/Image.png"
+import img1 from "../assets/Image.png";
 import Navtext from './Navtext';
 
 const Nav = () => {

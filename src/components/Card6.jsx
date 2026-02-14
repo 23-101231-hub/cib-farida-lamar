@@ -1,6 +1,6 @@
 import React from 'react';
 import "./Card6.css";
-import img8 from "../assets/Icon [Layer_1].png"
+import img8 from "../assets/Icon [Layer_1].png";
 
 const Card6 = () => {
     return (     <div className="wecare-card">
