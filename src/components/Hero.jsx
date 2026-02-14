@@ -8,7 +8,7 @@ const Hero = () => {
     <div class="logo">CIB</div>
 
     <p class="hero-text">
-      Delivering value to our clients, our community and our shareholders
+      Delivering value to our clients, our <br /> community and our shareholders
     </p>
 
     <a href="btn" class="btn">Discover more</a>
